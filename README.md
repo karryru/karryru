@@ -2,7 +2,9 @@
 #### I am data analyst, work and do research in my free time
 I work at a large Russian university and analyze social and government payments to students. I created this profile to share my projects.
 
-Skills: Python, SQL, Excel, Google Sheets
+Skills: Python (Pandas, NumPy, Matplotlib), SQL (ClickHouse, PostgreSQL), Excel, Google Sheets
+
+Education: Master of Materials Science and Technology of Materials
 
 [CV :blush:](https://hh.ru/resume/00446bf7ff0d016bc80039ed1f444355644a4d?from=share_ios)
 
